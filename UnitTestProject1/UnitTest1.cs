@@ -15,7 +15,7 @@ namespace HelloWorldTests
             {
                 Console.SetOut(sw);
                 ConsoleApp1.Program.Main();
-
+                Console.WriteLine("Test...");
                 var result = sw.ToString().Trim();
                 Assert.AreEqual(Expected, result);
             }
