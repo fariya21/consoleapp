@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpI4OoXxQkV9cgrFqR0gZRlt/sG6TSGYxVbbIDlZF5oHS73JtgKVW3ssLQhCtD5KnQPKmysikDrClp7mX0CMoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fariya.wani\\.jenkins\\workspace\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fariya.wani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
